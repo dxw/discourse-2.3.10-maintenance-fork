@@ -109,7 +109,7 @@ gem 'mini_scheduler'
 gem 'tilt', require: false
 
 gem 'execjs', require: false
-gem 'mini_racer'
+gem 'mini_racer', '~> 0.4.0'
 gem 'highline', '~> 1.7.0', require: false
 gem 'rack-protection' # security
 
